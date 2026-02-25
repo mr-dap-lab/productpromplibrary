@@ -13,6 +13,6 @@ https://github.com/mr-dap-lab/productpromplibrary/blob/main/story-generator.md
 
 ### 3rd Step - Generate a LoFi prototype
 
-
+https://github.com/mr-dap-lab/productpromplibrary/blob/main/prototype-generator.md
 
 
